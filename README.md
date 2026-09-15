@@ -28,3 +28,10 @@ A solução foi projetar um site de fácil entendimento e voltado para um public
 * **Declaração de Motivação:** "Criativo e habilidoso na criação de wireframes"
 ---
 
+### Alunos
+
+**Gabriel Selis Kovalik - 48223441**
+**Matheus Henrique Santos Villar - 47720361**
+**Gustavo Zimmermann Padilha - 46774360**
+
+
